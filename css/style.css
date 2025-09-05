@@ -2,9 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: cursive;
+    font-family: arial;
 }
 .table-test {
     height: 300px;
     overflow: auto;
+
 }
